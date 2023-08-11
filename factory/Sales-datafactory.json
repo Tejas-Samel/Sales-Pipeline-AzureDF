@@ -1,0 +1,9 @@
+{
+	"name": "Sales-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a901fc2-6c98-4dcf-9a08-a94c4fa562bd",
+		"tenantId": "29d6b2c1-5a07-49dc-ad3b-a84fe545e6d9"
+	}
+}
