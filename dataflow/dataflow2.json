@@ -28,6 +28,10 @@
 					"name": "sink1"
 				},
 				{
+					"dataset": {
+						"referenceName": "DelimitedText4",
+						"type": "DatasetReference"
+					},
 					"name": "sink2"
 				}
 			],
